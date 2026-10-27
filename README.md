@@ -2,7 +2,7 @@
 
 A Wi-Fi based smart energy meter that measures voltage and current with an ESP32, calculates power and energy consumption, and shows everything live on a **Blynk IoT 2.0** web and mobile dashboard. A **Telegram bot** sends energy consumption and bill details.
 
-> Based on the tutorial: [IoT Smart Energy Meter Using ESP32 - circuitdiagrams.in](https://circuitdiagrams.in/iot-smart-energy-meter-using-esp32/)
+
 
 ---
 
